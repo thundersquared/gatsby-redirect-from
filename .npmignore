@@ -1,6 +1,4 @@
-node_modules
-src
-.babelrc
-.editorconfig
-.eslintrc
 .travis.yml
+node_modules
+yarn.lock
+tests
