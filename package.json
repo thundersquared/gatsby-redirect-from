@@ -1,6 +1,6 @@
 {
   "name": "@thundersquared/gatsby-redirect-from",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thundersquared/gatsby-redirect-from.git"

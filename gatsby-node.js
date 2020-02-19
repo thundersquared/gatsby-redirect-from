@@ -22,7 +22,6 @@ exports.createPages = ({graphql, actions}, pluginOptions) => {
                             node {
                                 frontmatter {
                                     redirect_from
-                                    redirect_permanent
                                     slug
                                 }
                             }
